@@ -14,7 +14,7 @@ Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módul
 
 - **Aplicaciones prácticas**: Desarrollo de proyectos que integren lenguajes de marcas con bases de datos y aplicaciones multiplataforma.
 
-##Objetivos del módulo:
+## Objetivos del módulo:
 - *Dominar el uso de lenguajes de marcas para estructurar y gestionar información.*
 
 - *Aprender a integrar sistemas de gestión de información en aplicaciones multiplataforma.*
