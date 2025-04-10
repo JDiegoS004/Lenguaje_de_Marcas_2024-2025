@@ -3,8 +3,6 @@
 ## Contenido del repositorio
 Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módulo de Lenguaje de Marcas.
 
-El módulo de Lenguajes de Marcas y Sistemas de Gestión de Información en el grado superior de Desarrollo de Aplicaciones Multiplataforma se centra en el uso de lenguajes de marcas como XML, HTML y otros relacionados para estructurar, almacenar e intercambiar información. Este módulo es clave para aprender a gestionar datos de manera eficiente y desarrollar aplicaciones que interactúen con sistemas de información.
-
 ## Contenidos principales del módulo:
 - **Lenguajes de marcas**: Aprenderás a utilizar lenguajes como XML y HTML para estructurar y presentar información.
 
